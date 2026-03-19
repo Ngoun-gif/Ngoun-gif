@@ -42,7 +42,7 @@ Focused on practical solutions, system architecture, and production-ready develo
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=white)
-![CSharp](https://img.shields.io/badge/CSharp-000000?style=for-the-badge&logo=csharp&logoColor=white)
+![Windows Forms Application](https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/Tkinter-000000?style=for-the-badge)
 ![PyWebview](https://img.shields.io/badge/PyWebview-000000?style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
