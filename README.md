@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://img.shields.io/badge/BUILT%20WITH-REAL%20PROJECTS-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/BUILT%20WITH-REAL%20PROJECTS-blue?style=for-the-badge" />
 </p>
 
 <table>
@@ -56,7 +56,6 @@
 ## / PROJECTS /
 
 ### 🚀 E-Commerce System
-
 - Backend: **Laravel + Spring Boot**
 - Frontend: **Vue.js + Flutter**
 - Features: product management, categories, full-stack architecture
@@ -64,36 +63,29 @@
 ---
 
 ### 🚗 Garage Car System
-
 - Backend: **Django**
 - System for managing car services and operations
 
 ---
 
 ### 💵 Cash Counting Manager (Windows App)
-
 - Built with **Python + C#**
 - Desktop application for financial counting & operations
 
 ---
 
 ### 🖥️ Kiosk System (POS)
-
 - Backend: **FastAPI**
-- Focus: **self-order system + payment integration**
+- Focus: self-order system + payment integration
 
 ---
 
 ### 🧩 Webview Desktop App
-
 - Backend: **Raw Python**
 - Frontend: **HTML + CSS + Vue (CDN)**
 - Built as lightweight desktop UI system
 
 ---
-
-</td>
-
 
 </td>
 </tr>
