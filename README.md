@@ -54,10 +54,5 @@ Focused on practical solutions, system architecture, and production-ready develo
 
 ---
 
-### Mobile & Desktop
-
-
-
----
 
 
