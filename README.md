@@ -33,7 +33,7 @@ Focused on practical solutions, system architecture, and production-ready develo
 
 ---
 
-### Frontend
+### Frontend & Mobile & Desktop
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-000000?style=for-the-badge&logo=vue.js&logoColor=white)
