@@ -96,7 +96,7 @@
 
 <td width="45%" align="center">
 
-<img src="https://your-image-link-here" width="100%" />
+<img src="https://drive.google.com/drive/u/0/home" width="100%" />
 
 </td>
 </tr>
