@@ -6,7 +6,7 @@
 
 ## ABOUT ME
 
-Full-Stack Developer building real-world systems including kiosk, POS, and business applications.
+A Developer building real-world systems including kiosk, POS, and business applications.
 Experienced in backend development, database design, API integration, and frontend development using Python, Laravel, Vue.js, and Flutter.
 Focused on practical solutions, system architecture, and production-ready development.
 
