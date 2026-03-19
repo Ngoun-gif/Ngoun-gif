@@ -2,9 +2,7 @@
   <img src="https://img.shields.io/badge/BUILT%20WITH-REAL%20PROJECTS-blue?style=for-the-badge" />
 </p>
 
-<table>
-<tr>
-<td width="100%" valign="top">
+
 
 ## / ABOUT ME /
 
@@ -87,6 +85,3 @@
 
 ---
 
-</td>
-</tr>
-</table>
