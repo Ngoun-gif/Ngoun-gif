@@ -4,7 +4,7 @@
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="100%" valign="top">
 
 ## / ABOUT ME /
 
@@ -94,9 +94,6 @@
 
 </td>
 
-<td width="45%" align="center">
-
-<img src="https://drive.google.com/file/d/1UqirUddAh_jmfanzO1RkUpLjyHlQhlDL/view" width="100%" />
 
 </td>
 </tr>
