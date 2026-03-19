@@ -15,7 +15,14 @@
 
 ## / TECH STACK /
 
-### 💻 Backend
+### Database
+![SQLite](https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-000000?style=for-the-badge&logo=oracle&logoColor=white)
+
+
+### Backend
 
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=white)
@@ -29,7 +36,7 @@
 
 ---
 
-### 🖥️ Frontend
+### Frontend
 
 ![Vue.js](https://img.shields.io/badge/Vue.js-000000?style=for-the-badge&logo=vue.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
@@ -41,7 +48,7 @@
 
 ---
 
-### 📱 Mobile & Desktop
+### Mobile & Desktop
 
 ![Flutter](https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=white)
 
@@ -51,37 +58,7 @@
 
 ---
 
-## / PROJECTS /
 
-### 🚀 E-Commerce System
-- Backend: **Laravel + Spring Boot**
-- Frontend: **Vue.js + Flutter**
-- Features: product management, categories, full-stack architecture
-
----
-
-### 🚗 Garage Car System
-- Backend: **Django**
-- System for managing car services and operations
-
----
-
-### 💵 Cash Counting Manager (Windows App)
-- Built with **Python + C#**
-- Desktop application for financial counting & operations
-
----
-
-### 🖥️ Kiosk System (POS)
-- Backend: **FastAPI**
-- Focus: self-order system + payment integration
-
----
-
-### 🧩 Webview Desktop App
-- Backend: **Raw Python**
-- Frontend: **HTML + CSS + Vue (CDN)**
-- Built as lightweight desktop UI system
 
 ---
 
