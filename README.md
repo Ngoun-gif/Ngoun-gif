@@ -3,7 +3,14 @@
 </p>
 
 
+<<<<<<< HEAD
 A Developer building real-world systems including kiosk, POS, and business applications.
+=======
+
+## ABOUT ME
+
+Develop building real-world systems including kiosk, POS, and business applications.
+>>>>>>> 62171f0901e891db6664cc29fcecea6de0ae5ee5
 Experienced in backend development, database design, API integration, and frontend development using Python, Laravel, Vue.js, and Flutter.
 Focused on practical solutions, system architecture, and production-ready development.
 
