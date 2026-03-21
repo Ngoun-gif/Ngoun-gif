@@ -1,10 +1,7 @@
 <p align="left">
-  <img src="https://img.shields.io/badge/MY-PROFILE-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/About-Me-blue?style=for-the-badge" />
 </p>
 
-
-
-## ABOUT ME
 
 A Developer building real-world systems including kiosk, POS, and business applications.
 Experienced in backend development, database design, API integration, and frontend development using Python, Laravel, Vue.js, and Flutter.
@@ -12,7 +9,9 @@ Focused on practical solutions, system architecture, and production-ready develo
 
 ---
 
-## TECH STACK
+<p align="left">
+  <img src="https://img.shields.io/badge/TECH-STACK-blue?style=for-the-badge" />
+</p>
 
 ### Database
 
