@@ -49,8 +49,8 @@ Focused on practical solutions, system architecture, and production-ready develo
 
 ---
 
-### Integration 
+### Payment Integration 
 
-![HTML5](https://img.shields.io/badge/Bakong-000000?style=for-the-badge&logo=html5&logoColor=white)
+![Bakong](https://img.shields.io/badge/Bakong-Payment-blue?style=for-the-badge)
 
 
