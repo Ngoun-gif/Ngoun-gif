@@ -1,11 +1,6 @@
 <p align="left">
   <img src="https://img.shields.io/badge/About-Me-blue?style=for-the-badge" />
 </p>
-
-
-
-=======
-
 ## ABOUT ME
 
 Developing building real-world systems including kiosk, POS, and business applications.
