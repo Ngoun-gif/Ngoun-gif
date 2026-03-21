@@ -18,6 +18,7 @@ Focused on practical solutions, system architecture, and production-ready develo
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
 
+---
 
 ### Backend
 
