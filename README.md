@@ -45,12 +45,10 @@ Focused on practical solutions, system architecture, and production-ready develo
 ![Tkinter](https://img.shields.io/badge/Tkinter-000000?style=for-the-badge)
 ![PyWebview](https://img.shields.io/badge/PyWebview-000000?style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
-
+![Python WebView](https://img.shields.io/badge/Python%20WebView-000000?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
-### Payment Integration 
+### Payment Integration
 
 ![Bakong KHQR](https://img.shields.io/badge/Bakong%20KHQR-Payment-0A1F44?style=for-the-badge)
-
-
