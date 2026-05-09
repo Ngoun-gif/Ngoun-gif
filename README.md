@@ -2,9 +2,9 @@
   <img src="https://img.shields.io/badge/About-Me-blue?style=for-the-badge" />
 </p>
 
-Developing building real-world systems including kiosk, POS, and business applications.
-Experienced in backend development, database design, API integration, and frontend development using Python, Laravel, Vue.js, and Flutter.
-Focused on practical solutions, system architecture, and production-ready development.
+Website and Software Developer with hands-on experience building real-world systems, including kiosk applications, business applications, and web platforms.
+Experienced in backend development, database design, API integration, and frontend development using Python, 
+Laravel, Vue.js, and Flutter. Focused on building practical, well-structured, and production-ready solutions.
 
 ---
 
